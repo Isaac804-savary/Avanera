@@ -1,0 +1,3 @@
+unzip avanera-template-dark.zip
+cd avanera-template-dark-main
+# حالا ادامه مراحل را از اینجا انجام بده...
